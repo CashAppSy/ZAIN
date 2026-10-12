@@ -18,5 +18,11 @@
     "width": 1096.15,
     "height": 160.26
   },
-  "phone_format": "+963 944 222 111"
+  "phone_format": "+963 944 222 111",
+  "loading": {
+    "spinner_design_diameter": 24,
+    "spinner_export_diameter": 76.92,
+    "rotation_ms": 900,
+    "disable_duplicate_submissions": true
+  }
 }
