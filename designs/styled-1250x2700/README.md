@@ -1,6 +1,6 @@
 # Styled screens — 1250 x 2700
 
-Latest-reference visual design: compact blue-gradient headers, white ZAIN wordmark, rounded cyan buttons, blue-gradient current-plan card, quick-action icons and bottom navigation with a central purple ZAIN button. Rejected-number cases use a modal over the dimmed sign-in screen. Screen copy is English; phone format is +963 944 222 111.
+Latest-reference visual design: a blue-gradient Home header, clean white authentication screens without a blue header banner, rounded cyan buttons, blue-gradient current-plan card, quick-action icons and bottom navigation with a central purple ZAIN button. Rejected-number cases use a modal over the dimmed sign-in screen. Screen copy is English; phone format is +963 944 222 111.
 
 All 20 individual PNG screens have been verified at exactly **1250 x 2700 pixels**. SVG and PDF use the same portrait ratio. Five flow boards show the same-size phones, numbered steps, arrows and captions.
 
