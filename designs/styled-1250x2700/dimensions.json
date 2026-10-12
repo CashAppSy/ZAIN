@@ -1,0 +1,22 @@
+{
+  "screen": {
+    "width": 1250,
+    "height": 2700
+  },
+  "design_viewport": {
+    "width": 390,
+    "height": 842.4
+  },
+  "scale": 3.2051282051282053,
+  "content_margin": 76.92,
+  "content_width": 1096.15,
+  "phone_input": {
+    "width": 1096.15,
+    "height": 179.49
+  },
+  "primary_button": {
+    "width": 1096.15,
+    "height": 160.26
+  },
+  "phone_format": "+963 944 222 111"
+}

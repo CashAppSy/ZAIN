@@ -1,3 +1,5 @@
+> Current reference-inspired designs: [styled 1250 x 2700 screens and flow boards](../styled-1250x2700/).
+
 > Latest size: [1250 x 2700 screens and updated flow boards](../mobile-1250x2700/). This folder is a previous version.
 
 # English login flows — five cases

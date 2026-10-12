@@ -1,3 +1,5 @@
+> Current reference-inspired designs: [styled 1250 x 2700 screens and flow boards](../styled-1250x2700/).
+
 # Mobile screens — 1250 x 2700
 
 Current requested screen size: **1250 x 2700 pixels**, portrait. Each screen is exported separately in PNG, SVG and PDF; the SVG viewport and PNG dimensions are exactly 1250 x 2700. PDFs use the same coordinate dimensions.
