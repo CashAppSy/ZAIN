@@ -1,3 +1,5 @@
+> Latest size: [1250 x 2700 screens and updated flow boards](../mobile-1250x2700/). This folder is a previous version.
+
 # English login flows — five cases
 
 All visual concepts use matching portrait phone frames and the example number **+963 944 222 111**.

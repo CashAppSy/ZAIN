@@ -1,0 +1,852 @@
+[
+  {
+    "file": "01-mobile-number/01-splash.svg",
+    "viewport": {
+      "width": 1250,
+      "height": 2700
+    },
+    "elements": [
+      {
+        "element": "Logo placeholder",
+        "x": 471.15,
+        "y": 895.73,
+        "width": 307.69,
+        "height": 307.11
+      },
+      {
+        "element": "Tagline",
+        "x": 76.92,
+        "y": 1279.62,
+        "width": 1096.15,
+        "height": 127.96
+      },
+      {
+        "element": "Loading indicator",
+        "x": 573.72,
+        "y": 1535.55,
+        "width": 102.56,
+        "height": 102.37
+      }
+    ]
+  },
+  {
+    "file": "01-mobile-number/02-sign-in.svg",
+    "viewport": {
+      "width": 1250,
+      "height": 2700
+    },
+    "elements": [
+      {
+        "element": "Heading",
+        "x": 76.92,
+        "y": 332.7,
+        "width": 1096.15,
+        "height": 127.96
+      },
+      {
+        "element": "Supporting text",
+        "x": 76.92,
+        "y": 511.85,
+        "width": 1096.15,
+        "height": 153.55
+      },
+      {
+        "element": "Phone field",
+        "x": 76.92,
+        "y": 818.96,
+        "width": 1096.15,
+        "height": 179.15
+      },
+      {
+        "element": "Primary button",
+        "x": 76.92,
+        "y": 1074.88,
+        "width": 1096.15,
+        "height": 153.55
+      },
+      {
+        "element": "Divider",
+        "x": 76.92,
+        "y": 1305.21,
+        "width": 1096.15,
+        "height": 76.78
+      },
+      {
+        "element": "Google button",
+        "x": 76.92,
+        "y": 1458.77,
+        "width": 1096.15,
+        "height": 153.55
+      },
+      {
+        "element": "Legal text",
+        "x": 76.92,
+        "y": 2367.3,
+        "width": 1096.15,
+        "height": 153.55
+      }
+    ]
+  },
+  {
+    "file": "01-mobile-number/03-sms-verification.svg",
+    "viewport": {
+      "width": 1250,
+      "height": 2700
+    },
+    "elements": [
+      {
+        "element": "Back button",
+        "x": 76.92,
+        "y": 204.74,
+        "width": 141.03,
+        "height": 140.76
+      },
+      {
+        "element": "Heading",
+        "x": 76.92,
+        "y": 435.07,
+        "width": 1096.15,
+        "height": 127.96
+      },
+      {
+        "element": "Supporting text",
+        "x": 76.92,
+        "y": 614.22,
+        "width": 1096.15,
+        "height": 153.55
+      },
+      {
+        "element": "OTP boxes",
+        "x": 76.92,
+        "y": 921.33,
+        "width": 1096.15,
+        "height": 179.15,
+        "count": 6,
+        "box_width": 166.67,
+        "gap": 19.23
+      },
+      {
+        "element": "Verify button",
+        "x": 76.92,
+        "y": 1202.84,
+        "width": 1096.15,
+        "height": 153.55
+      },
+      {
+        "element": "Edit number action",
+        "x": 76.92,
+        "y": 1433.18,
+        "width": 512.82,
+        "height": 140.76
+      },
+      {
+        "element": "Resend action",
+        "x": 660.26,
+        "y": 1433.18,
+        "width": 512.82,
+        "height": 140.76
+      }
+    ]
+  },
+  {
+    "file": "01-mobile-number/04-home.svg",
+    "viewport": {
+      "width": 1250,
+      "height": 2700
+    },
+    "elements": [
+      {
+        "element": "Page header",
+        "x": 76.92,
+        "y": 204.74,
+        "width": 1096.15,
+        "height": 153.55
+      },
+      {
+        "element": "Current plan card",
+        "x": 76.92,
+        "y": 435.07,
+        "width": 1096.15,
+        "height": 1023.7
+      },
+      {
+        "element": "Renew plan button",
+        "x": 76.92,
+        "y": 1535.55,
+        "width": 1096.15,
+        "height": 153.55
+      },
+      {
+        "element": "Bottom navigation",
+        "x": 0.0,
+        "y": 2405.69,
+        "width": 1250.0,
+        "height": 185.55
+      }
+    ]
+  },
+  {
+    "file": "02-google/01-splash.svg",
+    "viewport": {
+      "width": 1250,
+      "height": 2700
+    },
+    "elements": [
+      {
+        "element": "Logo placeholder",
+        "x": 471.15,
+        "y": 895.73,
+        "width": 307.69,
+        "height": 307.11
+      },
+      {
+        "element": "Tagline",
+        "x": 76.92,
+        "y": 1279.62,
+        "width": 1096.15,
+        "height": 127.96
+      },
+      {
+        "element": "Loading indicator",
+        "x": 573.72,
+        "y": 1535.55,
+        "width": 102.56,
+        "height": 102.37
+      }
+    ]
+  },
+  {
+    "file": "02-google/02-sign-in.svg",
+    "viewport": {
+      "width": 1250,
+      "height": 2700
+    },
+    "elements": [
+      {
+        "element": "Heading",
+        "x": 76.92,
+        "y": 332.7,
+        "width": 1096.15,
+        "height": 127.96
+      },
+      {
+        "element": "Supporting text",
+        "x": 76.92,
+        "y": 511.85,
+        "width": 1096.15,
+        "height": 153.55
+      },
+      {
+        "element": "Phone field",
+        "x": 76.92,
+        "y": 818.96,
+        "width": 1096.15,
+        "height": 179.15
+      },
+      {
+        "element": "Primary button",
+        "x": 76.92,
+        "y": 1074.88,
+        "width": 1096.15,
+        "height": 153.55
+      },
+      {
+        "element": "Divider",
+        "x": 76.92,
+        "y": 1305.21,
+        "width": 1096.15,
+        "height": 76.78
+      },
+      {
+        "element": "Google button",
+        "x": 76.92,
+        "y": 1458.77,
+        "width": 1096.15,
+        "height": 153.55
+      },
+      {
+        "element": "Legal text",
+        "x": 76.92,
+        "y": 2367.3,
+        "width": 1096.15,
+        "height": 153.55
+      }
+    ]
+  },
+  {
+    "file": "02-google/03-google-handoff.svg",
+    "viewport": {
+      "width": 1250,
+      "height": 2700
+    },
+    "elements": [
+      {
+        "element": "Provider handoff",
+        "x": 76.92,
+        "y": 563.03,
+        "width": 1096.15,
+        "height": 511.85
+      },
+      {
+        "element": "Cancel / return action",
+        "x": 76.92,
+        "y": 1202.84,
+        "width": 1096.15,
+        "height": 153.55
+      }
+    ]
+  },
+  {
+    "file": "02-google/04-link-number-conditional.svg",
+    "viewport": {
+      "width": 1250,
+      "height": 2700
+    },
+    "elements": [
+      {
+        "element": "Heading",
+        "x": 76.92,
+        "y": 332.7,
+        "width": 1096.15,
+        "height": 127.96
+      },
+      {
+        "element": "Supporting text",
+        "x": 76.92,
+        "y": 511.85,
+        "width": 1096.15,
+        "height": 153.55
+      },
+      {
+        "element": "Phone field",
+        "x": 76.92,
+        "y": 818.96,
+        "width": 1096.15,
+        "height": 179.15
+      },
+      {
+        "element": "Primary button",
+        "x": 76.92,
+        "y": 1074.88,
+        "width": 1096.15,
+        "height": 153.55
+      },
+      {
+        "element": "Legal text",
+        "x": 76.92,
+        "y": 2367.3,
+        "width": 1096.15,
+        "height": 153.55
+      }
+    ]
+  },
+  {
+    "file": "02-google/05-sms-verification-conditional.svg",
+    "viewport": {
+      "width": 1250,
+      "height": 2700
+    },
+    "elements": [
+      {
+        "element": "Back button",
+        "x": 76.92,
+        "y": 204.74,
+        "width": 141.03,
+        "height": 140.76
+      },
+      {
+        "element": "Heading",
+        "x": 76.92,
+        "y": 435.07,
+        "width": 1096.15,
+        "height": 127.96
+      },
+      {
+        "element": "Supporting text",
+        "x": 76.92,
+        "y": 614.22,
+        "width": 1096.15,
+        "height": 153.55
+      },
+      {
+        "element": "OTP boxes",
+        "x": 76.92,
+        "y": 921.33,
+        "width": 1096.15,
+        "height": 179.15,
+        "count": 6,
+        "box_width": 166.67,
+        "gap": 19.23
+      },
+      {
+        "element": "Verify button",
+        "x": 76.92,
+        "y": 1202.84,
+        "width": 1096.15,
+        "height": 153.55
+      },
+      {
+        "element": "Edit number action",
+        "x": 76.92,
+        "y": 1433.18,
+        "width": 512.82,
+        "height": 140.76
+      },
+      {
+        "element": "Resend action",
+        "x": 660.26,
+        "y": 1433.18,
+        "width": 512.82,
+        "height": 140.76
+      }
+    ]
+  },
+  {
+    "file": "02-google/06-home.svg",
+    "viewport": {
+      "width": 1250,
+      "height": 2700
+    },
+    "elements": [
+      {
+        "element": "Page header",
+        "x": 76.92,
+        "y": 204.74,
+        "width": 1096.15,
+        "height": 153.55
+      },
+      {
+        "element": "Current plan card",
+        "x": 76.92,
+        "y": 435.07,
+        "width": 1096.15,
+        "height": 1023.7
+      },
+      {
+        "element": "Renew plan button",
+        "x": 76.92,
+        "y": 1535.55,
+        "width": 1096.15,
+        "height": 153.55
+      },
+      {
+        "element": "Bottom navigation",
+        "x": 0.0,
+        "y": 2405.69,
+        "width": 1250.0,
+        "height": 185.55
+      }
+    ]
+  },
+  {
+    "file": "03-automatic-network/01-splash.svg",
+    "viewport": {
+      "width": 1250,
+      "height": 2700
+    },
+    "elements": [
+      {
+        "element": "Logo placeholder",
+        "x": 471.15,
+        "y": 895.73,
+        "width": 307.69,
+        "height": 307.11
+      },
+      {
+        "element": "Tagline",
+        "x": 76.92,
+        "y": 1279.62,
+        "width": 1096.15,
+        "height": 127.96
+      },
+      {
+        "element": "Loading indicator",
+        "x": 573.72,
+        "y": 1535.55,
+        "width": 102.56,
+        "height": 102.37
+      }
+    ]
+  },
+  {
+    "file": "03-automatic-network/02-home.svg",
+    "viewport": {
+      "width": 1250,
+      "height": 2700
+    },
+    "elements": [
+      {
+        "element": "Page header",
+        "x": 76.92,
+        "y": 204.74,
+        "width": 1096.15,
+        "height": 153.55
+      },
+      {
+        "element": "Current plan card",
+        "x": 76.92,
+        "y": 435.07,
+        "width": 1096.15,
+        "height": 1023.7
+      },
+      {
+        "element": "Renew plan button",
+        "x": 76.92,
+        "y": 1535.55,
+        "width": 1096.15,
+        "height": 153.55
+      },
+      {
+        "element": "Bottom navigation",
+        "x": 0.0,
+        "y": 2405.69,
+        "width": 1250.0,
+        "height": 185.55
+      }
+    ]
+  },
+  {
+    "file": "04-number-not-found/01-sign-in.svg",
+    "viewport": {
+      "width": 1250,
+      "height": 2700
+    },
+    "elements": [
+      {
+        "element": "Heading",
+        "x": 76.92,
+        "y": 332.7,
+        "width": 1096.15,
+        "height": 127.96
+      },
+      {
+        "element": "Supporting text",
+        "x": 76.92,
+        "y": 511.85,
+        "width": 1096.15,
+        "height": 153.55
+      },
+      {
+        "element": "Phone field",
+        "x": 76.92,
+        "y": 818.96,
+        "width": 1096.15,
+        "height": 179.15
+      },
+      {
+        "element": "Primary button",
+        "x": 76.92,
+        "y": 1074.88,
+        "width": 1096.15,
+        "height": 153.55
+      },
+      {
+        "element": "Divider",
+        "x": 76.92,
+        "y": 1305.21,
+        "width": 1096.15,
+        "height": 76.78
+      },
+      {
+        "element": "Google button",
+        "x": 76.92,
+        "y": 1458.77,
+        "width": 1096.15,
+        "height": 153.55
+      },
+      {
+        "element": "Legal text",
+        "x": 76.92,
+        "y": 2367.3,
+        "width": 1096.15,
+        "height": 153.55
+      }
+    ]
+  },
+  {
+    "file": "04-number-not-found/02-number-error.svg",
+    "viewport": {
+      "width": 1250,
+      "height": 2700
+    },
+    "elements": [
+      {
+        "element": "Heading",
+        "x": 76.92,
+        "y": 332.7,
+        "width": 1096.15,
+        "height": 127.96
+      },
+      {
+        "element": "Supporting text",
+        "x": 76.92,
+        "y": 511.85,
+        "width": 1096.15,
+        "height": 153.55
+      },
+      {
+        "element": "Phone field",
+        "x": 76.92,
+        "y": 818.96,
+        "width": 1096.15,
+        "height": 179.15
+      },
+      {
+        "element": "Error heading",
+        "x": 76.92,
+        "y": 1049.29,
+        "width": 1096.15,
+        "height": 153.55
+      },
+      {
+        "element": "Error detail",
+        "x": 76.92,
+        "y": 1254.03,
+        "width": 1096.15,
+        "height": 153.55
+      },
+      {
+        "element": "Recovery action",
+        "x": 76.92,
+        "y": 1484.36,
+        "width": 1096.15,
+        "height": 153.55
+      },
+      {
+        "element": "Support action",
+        "x": 76.92,
+        "y": 1714.69,
+        "width": 1096.15,
+        "height": 153.55
+      }
+    ]
+  },
+  {
+    "file": "04-number-not-found/03-edit-and-retry.svg",
+    "viewport": {
+      "width": 1250,
+      "height": 2700
+    },
+    "elements": [
+      {
+        "element": "Heading",
+        "x": 76.92,
+        "y": 332.7,
+        "width": 1096.15,
+        "height": 127.96
+      },
+      {
+        "element": "Supporting text",
+        "x": 76.92,
+        "y": 511.85,
+        "width": 1096.15,
+        "height": 153.55
+      },
+      {
+        "element": "Phone field",
+        "x": 76.92,
+        "y": 818.96,
+        "width": 1096.15,
+        "height": 179.15
+      },
+      {
+        "element": "Primary button",
+        "x": 76.92,
+        "y": 1074.88,
+        "width": 1096.15,
+        "height": 153.55
+      },
+      {
+        "element": "Divider",
+        "x": 76.92,
+        "y": 1305.21,
+        "width": 1096.15,
+        "height": 76.78
+      },
+      {
+        "element": "Google button",
+        "x": 76.92,
+        "y": 1458.77,
+        "width": 1096.15,
+        "height": 153.55
+      },
+      {
+        "element": "Legal text",
+        "x": 76.92,
+        "y": 2367.3,
+        "width": 1096.15,
+        "height": 153.55
+      }
+    ]
+  },
+  {
+    "file": "05-other-operator/01-sign-in.svg",
+    "viewport": {
+      "width": 1250,
+      "height": 2700
+    },
+    "elements": [
+      {
+        "element": "Heading",
+        "x": 76.92,
+        "y": 332.7,
+        "width": 1096.15,
+        "height": 127.96
+      },
+      {
+        "element": "Supporting text",
+        "x": 76.92,
+        "y": 511.85,
+        "width": 1096.15,
+        "height": 153.55
+      },
+      {
+        "element": "Phone field",
+        "x": 76.92,
+        "y": 818.96,
+        "width": 1096.15,
+        "height": 179.15
+      },
+      {
+        "element": "Primary button",
+        "x": 76.92,
+        "y": 1074.88,
+        "width": 1096.15,
+        "height": 153.55
+      },
+      {
+        "element": "Divider",
+        "x": 76.92,
+        "y": 1305.21,
+        "width": 1096.15,
+        "height": 76.78
+      },
+      {
+        "element": "Google button",
+        "x": 76.92,
+        "y": 1458.77,
+        "width": 1096.15,
+        "height": 153.55
+      },
+      {
+        "element": "Legal text",
+        "x": 76.92,
+        "y": 2367.3,
+        "width": 1096.15,
+        "height": 153.55
+      }
+    ]
+  },
+  {
+    "file": "05-other-operator/02-number-error.svg",
+    "viewport": {
+      "width": 1250,
+      "height": 2700
+    },
+    "elements": [
+      {
+        "element": "Heading",
+        "x": 76.92,
+        "y": 332.7,
+        "width": 1096.15,
+        "height": 127.96
+      },
+      {
+        "element": "Supporting text",
+        "x": 76.92,
+        "y": 511.85,
+        "width": 1096.15,
+        "height": 153.55
+      },
+      {
+        "element": "Phone field",
+        "x": 76.92,
+        "y": 818.96,
+        "width": 1096.15,
+        "height": 179.15
+      },
+      {
+        "element": "Error heading",
+        "x": 76.92,
+        "y": 1049.29,
+        "width": 1096.15,
+        "height": 153.55
+      },
+      {
+        "element": "Error detail",
+        "x": 76.92,
+        "y": 1254.03,
+        "width": 1096.15,
+        "height": 153.55
+      },
+      {
+        "element": "Recovery action",
+        "x": 76.92,
+        "y": 1484.36,
+        "width": 1096.15,
+        "height": 153.55
+      }
+    ]
+  },
+  {
+    "file": "05-other-operator/03-edit-and-retry.svg",
+    "viewport": {
+      "width": 1250,
+      "height": 2700
+    },
+    "elements": [
+      {
+        "element": "Heading",
+        "x": 76.92,
+        "y": 332.7,
+        "width": 1096.15,
+        "height": 127.96
+      },
+      {
+        "element": "Supporting text",
+        "x": 76.92,
+        "y": 511.85,
+        "width": 1096.15,
+        "height": 153.55
+      },
+      {
+        "element": "Phone field",
+        "x": 76.92,
+        "y": 818.96,
+        "width": 1096.15,
+        "height": 179.15
+      },
+      {
+        "element": "Primary button",
+        "x": 76.92,
+        "y": 1074.88,
+        "width": 1096.15,
+        "height": 153.55
+      },
+      {
+        "element": "Divider",
+        "x": 76.92,
+        "y": 1305.21,
+        "width": 1096.15,
+        "height": 76.78
+      },
+      {
+        "element": "Google button",
+        "x": 76.92,
+        "y": 1458.77,
+        "width": 1096.15,
+        "height": 153.55
+      },
+      {
+        "element": "Legal text",
+        "x": 76.92,
+        "y": 2367.3,
+        "width": 1096.15,
+        "height": 153.55
+      }
+    ]
+  },
+  {
+    "note": "Every exported PNG is exactly 1250 x 2700 pixels. X and Y scales are independent to match the requested aspect ratio. Prior 390 x 844 files are historical."
+  }
+]
