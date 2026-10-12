@@ -504,5 +504,346 @@
         "height": 58
       }
     ]
+  },
+  {
+    "file": "04-number-not-found/01-sign-in.svg",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "elements": [
+      {
+        "element": "Heading",
+        "x": 24,
+        "y": 104,
+        "width": 342,
+        "height": 40
+      },
+      {
+        "element": "Supporting text",
+        "x": 24,
+        "y": 160,
+        "width": 342,
+        "height": 48
+      },
+      {
+        "element": "Phone field",
+        "x": 24,
+        "y": 256,
+        "width": 342,
+        "height": 56
+      },
+      {
+        "element": "Primary button",
+        "x": 24,
+        "y": 336,
+        "width": 342,
+        "height": 48
+      },
+      {
+        "element": "Divider",
+        "x": 24,
+        "y": 408,
+        "width": 342,
+        "height": 24
+      },
+      {
+        "element": "Google button",
+        "x": 24,
+        "y": 456,
+        "width": 342,
+        "height": 48
+      },
+      {
+        "element": "Legal text",
+        "x": 24,
+        "y": 740,
+        "width": 342,
+        "height": 48
+      }
+    ]
+  },
+  {
+    "file": "04-number-not-found/02-number-error.svg",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "elements": [
+      {
+        "element": "Heading",
+        "x": 24,
+        "y": 104,
+        "width": 342,
+        "height": 40
+      },
+      {
+        "element": "Supporting text",
+        "x": 24,
+        "y": 160,
+        "width": 342,
+        "height": 48
+      },
+      {
+        "element": "Phone field",
+        "x": 24,
+        "y": 256,
+        "width": 342,
+        "height": 56
+      },
+      {
+        "element": "Error heading",
+        "x": 24,
+        "y": 328,
+        "width": 342,
+        "height": 48
+      },
+      {
+        "element": "Error detail",
+        "x": 24,
+        "y": 392,
+        "width": 342,
+        "height": 48
+      },
+      {
+        "element": "Recovery action",
+        "x": 24,
+        "y": 464,
+        "width": 342,
+        "height": 48
+      },
+      {
+        "element": "Support action",
+        "x": 24,
+        "y": 536,
+        "width": 342,
+        "height": 48
+      }
+    ]
+  },
+  {
+    "file": "04-number-not-found/03-edit-and-retry.svg",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "elements": [
+      {
+        "element": "Heading",
+        "x": 24,
+        "y": 104,
+        "width": 342,
+        "height": 40
+      },
+      {
+        "element": "Supporting text",
+        "x": 24,
+        "y": 160,
+        "width": 342,
+        "height": 48
+      },
+      {
+        "element": "Phone field",
+        "x": 24,
+        "y": 256,
+        "width": 342,
+        "height": 56
+      },
+      {
+        "element": "Primary button",
+        "x": 24,
+        "y": 336,
+        "width": 342,
+        "height": 48
+      },
+      {
+        "element": "Divider",
+        "x": 24,
+        "y": 408,
+        "width": 342,
+        "height": 24
+      },
+      {
+        "element": "Google button",
+        "x": 24,
+        "y": 456,
+        "width": 342,
+        "height": 48
+      },
+      {
+        "element": "Legal text",
+        "x": 24,
+        "y": 740,
+        "width": 342,
+        "height": 48
+      }
+    ]
+  },
+  {
+    "file": "05-other-operator/01-sign-in.svg",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "elements": [
+      {
+        "element": "Heading",
+        "x": 24,
+        "y": 104,
+        "width": 342,
+        "height": 40
+      },
+      {
+        "element": "Supporting text",
+        "x": 24,
+        "y": 160,
+        "width": 342,
+        "height": 48
+      },
+      {
+        "element": "Phone field",
+        "x": 24,
+        "y": 256,
+        "width": 342,
+        "height": 56
+      },
+      {
+        "element": "Primary button",
+        "x": 24,
+        "y": 336,
+        "width": 342,
+        "height": 48
+      },
+      {
+        "element": "Divider",
+        "x": 24,
+        "y": 408,
+        "width": 342,
+        "height": 24
+      },
+      {
+        "element": "Google button",
+        "x": 24,
+        "y": 456,
+        "width": 342,
+        "height": 48
+      },
+      {
+        "element": "Legal text",
+        "x": 24,
+        "y": 740,
+        "width": 342,
+        "height": 48
+      }
+    ]
+  },
+  {
+    "file": "05-other-operator/02-number-error.svg",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "elements": [
+      {
+        "element": "Heading",
+        "x": 24,
+        "y": 104,
+        "width": 342,
+        "height": 40
+      },
+      {
+        "element": "Supporting text",
+        "x": 24,
+        "y": 160,
+        "width": 342,
+        "height": 48
+      },
+      {
+        "element": "Phone field",
+        "x": 24,
+        "y": 256,
+        "width": 342,
+        "height": 56
+      },
+      {
+        "element": "Error heading",
+        "x": 24,
+        "y": 328,
+        "width": 342,
+        "height": 48
+      },
+      {
+        "element": "Error detail",
+        "x": 24,
+        "y": 392,
+        "width": 342,
+        "height": 48
+      },
+      {
+        "element": "Recovery action",
+        "x": 24,
+        "y": 464,
+        "width": 342,
+        "height": 48
+      }
+    ]
+  },
+  {
+    "file": "05-other-operator/03-edit-and-retry.svg",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "elements": [
+      {
+        "element": "Heading",
+        "x": 24,
+        "y": 104,
+        "width": 342,
+        "height": 40
+      },
+      {
+        "element": "Supporting text",
+        "x": 24,
+        "y": 160,
+        "width": 342,
+        "height": 48
+      },
+      {
+        "element": "Phone field",
+        "x": 24,
+        "y": 256,
+        "width": 342,
+        "height": 56
+      },
+      {
+        "element": "Primary button",
+        "x": 24,
+        "y": 336,
+        "width": 342,
+        "height": 48
+      },
+      {
+        "element": "Divider",
+        "x": 24,
+        "y": 408,
+        "width": 342,
+        "height": 24
+      },
+      {
+        "element": "Google button",
+        "x": 24,
+        "y": 456,
+        "width": 342,
+        "height": 48
+      },
+      {
+        "element": "Legal text",
+        "x": 24,
+        "y": 740,
+        "width": 342,
+        "height": 48
+      }
+    ]
   }
 ]

@@ -30,3 +30,7 @@ flowchart TD
 ```
 
 Open any SVG file on GitHub to view it. Download the corresponding PDF for a separate screen sheet. See each folder's FLOW.md for its conditions.
+
+## Rejected-number flows
+
+`04-number-not-found` and `05-other-operator` include separate error and recovery screens. Every screen uses the same 390 x 844 viewport. Phone formatting is +963 944 222 111. All examples are illustrative; operator eligibility requires backend validation.
